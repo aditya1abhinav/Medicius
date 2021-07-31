@@ -100,12 +100,14 @@ banner
 
 .img-responsive {
     width: 50px;
+    border-radius: 5px;
     /* height: 120px; */
 }
 
 .img-responsive1 {
     width: 55px;
     height: 120px;
+    border-radius: 10px;
 }
 
 .navbar-brand {
