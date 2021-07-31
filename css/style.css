@@ -194,6 +194,7 @@ banner
 .important {
     color: red;
     cursor: default;
+    font-family: sans-serif;
     pointer-events: none;
 }
 
